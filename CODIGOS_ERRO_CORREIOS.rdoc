@@ -1,4 +1,14 @@
 == Códigos de erro
+<table>
+<row>
+<tr>
+Código
+</tr>
+<tr>
+Descrição
+</tr>
+</row>
+</table>
 
 | Código | Descrição 
 | -------| ---------
